@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+div {
+  width: 300px;
+  height: 300px;
+}
+.div1 {
+  background: green;
+}
+.div2 {
+  background: yellow;
+}
+.div3 {
+  background: orange;
+}
+.div4 {
+  background: purple;
+}
+
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
